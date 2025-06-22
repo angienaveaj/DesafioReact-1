@@ -8,4 +8,4 @@ El Siguiente desafio se hizo de la siguiente manera:
 #### 4.- Subido a GitHub.
 
 
-## _INICNIANDO UNA GRAN EXPEREIENCIA CON REACT_
+## _INICNIANDO UNA GRAN EXPERIENCIA CON REACT_
